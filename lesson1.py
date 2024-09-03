@@ -21,3 +21,4 @@ print("your fav food is"+ food+ ".")
 # concatenation is the process of combining strings
 fav_animal = input("whats ur fav animal?")
 print("your fav animal is"+ fav_animal+ ".")
+# lets do more practire
