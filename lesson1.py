@@ -22,3 +22,5 @@ print("your fav food is"+ food+ ".")
 fav_animal = input("whats ur fav animal?")
 print("your fav animal is"+ fav_animal+ ".")
 # lets do more practire
+# adsfikjhdsf
+# commit
